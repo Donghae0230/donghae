@@ -6,7 +6,7 @@
 
 ### What I Like
 - :drum: Playing drums
-- :books: Read books
+- :books: Reading books
 - :running_man: Doing exercise
  
 ### Contacts
