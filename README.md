@@ -3,7 +3,7 @@
 
 
 Hi, I'm Donghae Lee who is interested in Front-end web development from South Korea.
-- &#127775;	I'm currently learning HTML/CSS & JavaScript & Python.
+- &#127775;	I'm currently interested in Python and Artificial Intelligence.
 - &#127775;	If you want to contact me, please leave me a <a href="mailto:mailto:ldonghae320@gmail.com" >message</a>.
 
 
