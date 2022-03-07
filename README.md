@@ -6,7 +6,3 @@
 - &#127775;	I'm currently interested in Python and Artificial Intelligence.<br>
 - &#127775; I majored in Biomedical engineering<br>
 - &#127775;	If you want to contact me, please leave me a <a href="mailto:mailto:ldonghae320@gmail.com" >message</a>.<br><br>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldonghae320)](https://solved.ac/ldonghae320/)
-
