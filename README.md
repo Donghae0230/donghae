@@ -7,5 +7,3 @@
 
 - &#127775;	I'm currently interested in Python and Data engineering.<br>
 - &#127775;	If you want to contact me, please leave me a <a href="mailto:mailto:ldonghae320@gmail.com" >message</a>.<br><br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=2FA4FF&type=waving)
